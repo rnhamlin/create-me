@@ -46,7 +46,7 @@ const questions = [
     message: "Which license is your application covered under?",
     type: "list",
     name: "license",
-    choices: ["MIT", "Apache", "Creative Commons", "GNU", "Unlicensed"],
+    choices: ["MIT", "Apache", "ISC", "GNU", "Unlicensed"],
   },
 ];
 
